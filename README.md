@@ -11,7 +11,7 @@ Foi aplicado neste projeto, os Pilares da POO: Herança, Encapsulamento, Polimor
 - Mostrar o nível de cada Herói separadamente;
 - Mostrar o Magic Point (MP), corrente e completo;
 - Mostrar o Hit Point (HP), corrente e completo;
-- Foram acrescentados ainda:
+- Foram acrescentados equipamentos e frases, tais como:
 -- Espada, Katana e Shuriken;
 -- Poção mágica, Feitiço, etc..;
 -- Frase de Ataque;
