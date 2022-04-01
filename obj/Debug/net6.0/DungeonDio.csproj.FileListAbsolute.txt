@@ -1,0 +1,15 @@
+D:\CURSOS\DIO\Desafios\DungeonDio\obj\Debug\net6.0\DungeonDio.csproj.AssemblyReference.cache
+D:\CURSOS\DIO\Desafios\DungeonDio\obj\Debug\net6.0\DungeonDio.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\DIO\Desafios\DungeonDio\obj\Debug\net6.0\DungeonDio.AssemblyInfoInputs.cache
+D:\CURSOS\DIO\Desafios\DungeonDio\obj\Debug\net6.0\DungeonDio.AssemblyInfo.cs
+D:\CURSOS\DIO\Desafios\DungeonDio\obj\Debug\net6.0\DungeonDio.csproj.CoreCompileInputs.cache
+D:\CURSOS\DIO\Desafios\DungeonDio\bin\Debug\net6.0\DungeonDio.exe
+D:\CURSOS\DIO\Desafios\DungeonDio\bin\Debug\net6.0\DungeonDio.deps.json
+D:\CURSOS\DIO\Desafios\DungeonDio\bin\Debug\net6.0\DungeonDio.runtimeconfig.json
+D:\CURSOS\DIO\Desafios\DungeonDio\bin\Debug\net6.0\DungeonDio.dll
+D:\CURSOS\DIO\Desafios\DungeonDio\bin\Debug\net6.0\DungeonDio.pdb
+D:\CURSOS\DIO\Desafios\DungeonDio\obj\Debug\net6.0\DungeonDio.dll
+D:\CURSOS\DIO\Desafios\DungeonDio\obj\Debug\net6.0\refint\DungeonDio.dll
+D:\CURSOS\DIO\Desafios\DungeonDio\obj\Debug\net6.0\DungeonDio.pdb
+D:\CURSOS\DIO\Desafios\DungeonDio\obj\Debug\net6.0\DungeonDio.genruntimeconfig.cache
+D:\CURSOS\DIO\Desafios\DungeonDio\obj\Debug\net6.0\ref\DungeonDio.dll
